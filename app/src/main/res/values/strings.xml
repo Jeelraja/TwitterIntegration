@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwitterIntegration</string>
+    <!--Twitter Keys-->
+    <string name="CONSUMER_KEY">SIJHuse1G97Pk1xyAPRJxRndA</string>
+    <string name="CONSUMER_SECRET">2XkYCcs10WA6HOfZap0Femal6s9ckaLqSoGls296uCXgistrys</string>
+
+</resources>
